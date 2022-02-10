@@ -4,6 +4,6 @@ echo "Hi there!"
       
 echo "It's good to see you $1!" 
       
-exit 22 
+exit 0 
      
     
